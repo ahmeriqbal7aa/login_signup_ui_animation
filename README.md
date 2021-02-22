@@ -2,7 +2,7 @@
 
 A new Flutter application.
 ```
-Beautiful and attractive Animated Login and SignUp Page UI
+Beautiful and attractive Animated Login and SignUp Page UI with Delayed Animation Feature
 ```
 
 ## Getting Started
@@ -26,8 +26,5 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://user-images.githubusercontent.com/73339220/108668882-ceccac80-74fd-11eb-9176-1a6aa31ffbbc.jpg" width=300 /> <img src="https://user-images.githubusercontent.com/73339220/108668891-d12f0680-74fd-11eb-9a5b-117c96eb9e0f.jpg" width=300 />
 
 # Working
-```
-- Apply Delayed Animation
-```
 
 <img src="https://user-images.githubusercontent.com/73339220/108668949-e4da6d00-74fd-11eb-8570-2497bdedf7de.gif" width=300 />
